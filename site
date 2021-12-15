@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="sus amongus" />
+    <title>Spooka's Github Page</title>
+    <style>
+      body {
+        height: 1000px;
+        background-image: url(images/Forest.jpg);
+        background-repeat: no-repeat;
+      }
+      em {
+        color: rgb(170, 170, 190);
+        font-style: italic;
+      }
+      img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 200px;
+        border-radius: 50px;
+        margin-bottom: 50px;
+      }
+      h1 {
+        color: snow;
+        font-size: 75px;
+        text-align: center;
+        margin-top: 50px;
+        font-weight: bold;
+      }
+      h2 {
+        font-size: 35px;
+        margin-block-start: 50px;
+        margin-block-end: 10px;
+        color: snow;
+        text-align: center;
+      }
+      h3 {
+        font-size: 25px;
+        margin-block-start: 55px;
+        margin-block-end: 10px;
+        color: snow;
+        text-align: center;
+      }
+      .links {
+        size: 500px;
+        color: snow;
+        text-align: center;
+      }
+      p {
+        font-size: 17px;
+        color: snow;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>It's me, the <em>spook</em></h1>
+    <img src="images/Spook.jpg" alt="Me (Spooka)" />
+    <h2>Hello, my name is Spooka</h2>
+    <p>I have a very limited knowledge of coding</p>
+    <p>He/Him, Any pronouns idrc</p>
+    <h3>Discord Stuff</h3>
+    <p>My User: Spooka#2990</p>
+    <p>Merrybot + Friens: [Awaiting invite approval]</p>
+    <p>Cool people website(s)</p>
+    <p>
+      <a href="https://berrymot.github.io/" style="color: rgb(170, 170, 190)"
+        >Merrybot</a
+      >
+    </p>
+  </body>
+</html>
