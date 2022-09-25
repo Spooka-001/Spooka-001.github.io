@@ -25,3 +25,9 @@ a {
   color: #b17925;
   font-style: italic;
 }
+@media (max-width: 600px) {
+  section {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
