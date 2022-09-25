@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Display:ital,wght@0,400;0,700;1,400;1,700&family=Noto+Sans+Mono:wght@400;700&display=swap');
+body {
+  margin: 0;
+  padding: 1em;
+  background: rgb(154,83,26);
+  background: linear-gradient(180deg, rgba(154,83,26,1) 0%, rgba(226,164,58,1) 100%);
+}
+body, input, button {
+  font-family: "Noto Sans Display", sans-serif;
+}
+pre, code, kbd, samp {
+  font-family: "Noto Sans Mono", monospace;
+}
+section {
+  margin-left: 19vw;
+  margin-right: 32vw;
+  margin-bottom: 1.5em;
+  margin-top: 1em;
+  background: #000000a6;
+}
+a {
+  color: #b17925;
+  font-weight: italic;
+}
