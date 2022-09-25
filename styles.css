@@ -25,7 +25,7 @@ a {
   color: #b17925;
   font-style: italic;
 }
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   section {
     margin-left: -8px;
     margin-right: unset;
